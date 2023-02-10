@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: "import java.util.*;\n\npublic class Main {\n\n    enum Element {\n      \
+    \  FIRE, WIND, EARTH, SKY, WATER\n    }\n\n    public static void main(String[]\
+    \ args) {\n\n        // Change this statement\n        Set<Element> set = new\
+    \ HashSet<>(); \n\n        /** instanceof operator returns true if set object\
+    \ has EnumSet type\n         *  and false - otherwise\n         */\n        System.out.println(set\
+    \ instanceof EnumSet<Element>);\n        System.out.println(set);\n    }\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19796#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 08 Feb 2023 16:49:36 UTC
+record: -1

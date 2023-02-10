@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Contacts/task/build/
+/Topics/Replacing characters/Remove comments/out/
+/Topics/Replacing characters/Remove comments/out/production/classes/

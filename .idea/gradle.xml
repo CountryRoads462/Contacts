@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Contacts/task" />
+            <option value="$PROJECT_DIR$/Contacts/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Contacts/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Contacts/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Contacts/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Contacts/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Contacts/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/Burgers" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/Disadvantages of the pattern" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/Laptop factory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/Phone factory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/What does the pattern do" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Builder (1)" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Describe the builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Disadvantage of Builder pattern" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Robot Builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Subway Sandwich" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/Basic job requirements" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/EnumSet" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/Error" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/The correct set" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/Vaccination" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/2 weeks after" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/30 years before and after" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Print dates of a year with an offset" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Similar date" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Add 11 hours and print the date" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Add days and subtract hours" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Subtracting hours and adding minutes" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/The passed hours since the beginning of year" />
+            <option value="$PROJECT_DIR$/Topics/LocalDateTime/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Millisecond precision" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Same time" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Seconds between two time points" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Manipulating fields and methods/Assign a new value to a field" />
+            <option value="$PROJECT_DIR$/Topics/Manipulating fields and methods/Field value" />
+            <option value="$PROJECT_DIR$/Topics/Manipulating fields and methods/Invoking a method" />
+            <option value="$PROJECT_DIR$/Topics/Manipulating fields and methods/Reflection invocation" />
+            <option value="$PROJECT_DIR$/Topics/Manipulating fields and methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters/Check the essay" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters/Methods of Matcher" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters/Methods of a string" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters/Remove HTML tags" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters/Remove comments" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters/Remove extra spaces" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Replacing characters/What is the result" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Pattern matching in practice" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Select statements" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Three classes and two objects" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Who is who" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

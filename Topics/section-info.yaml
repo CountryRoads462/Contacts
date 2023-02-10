@@ -1,0 +1,10 @@
+content:
+- Manipulating fields and methods
+- Replacing characters
+- Enumset
+- Builder
+- Runtime type checking
+- LocalDate
+- LocalTime
+- LocalDateTime
+- Abstract factory

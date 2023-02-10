@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Contacts.Contacts-task-build-classes-java.main" target="11" />
+      <module name="Contacts.Contacts-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Contacts.Contacts-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Contacts.Contacts-task-build-reports-tests.main" target="11" />
+      <module name="Contacts.Contacts-task-build-test-results.main" target="11" />
+      <module name="Contacts.Contacts-task-build-tmp.main" target="11" />
+      <module name="Contacts.Contacts-task.main" target="11" />
+      <module name="Contacts.Topics-Abstract_factory-Burgers.main" target="11" />
+      <module name="Contacts.Topics-Abstract_factory-Disadvantages_of_the_pattern.main" target="11" />
+      <module name="Contacts.Topics-Abstract_factory-Laptop_factory.main" target="11" />
+      <module name="Contacts.Topics-Abstract_factory-Phone_factory.main" target="11" />
+      <module name="Contacts.Topics-Abstract_factory-Theory.main" target="11" />
+      <module name="Contacts.Topics-Abstract_factory-What_does_the_pattern_do.main" target="11" />
+      <module name="Contacts.Topics-Builder-Builder.main" target="11" />
+      <module name="Contacts.Topics-Builder-Builder__1_.main" target="11" />
+      <module name="Contacts.Topics-Builder-Describe_the_builder.main" target="11" />
+      <module name="Contacts.Topics-Builder-Disadvantage_of_Builder_pattern.main" target="11" />
+      <module name="Contacts.Topics-Builder-Robot_Builder.main" target="11" />
+      <module name="Contacts.Topics-Builder-Subway_Sandwich.main" target="11" />
+      <module name="Contacts.Topics-Builder-Theory.main" target="11" />
+      <module name="Contacts.Topics-Enumset-Basic_job_requirements.main" target="11" />
+      <module name="Contacts.Topics-Enumset-EnumSet.main" target="11" />
+      <module name="Contacts.Topics-Enumset-Error.main" target="11" />
+      <module name="Contacts.Topics-Enumset-The_correct_set.main" target="11" />
+      <module name="Contacts.Topics-Enumset-Theory.main" target="11" />
+      <module name="Contacts.Topics-Enumset-Vaccination.main" target="11" />
+      <module name="Contacts.Topics-LocalDate-2_weeks_after.main" target="11" />
+      <module name="Contacts.Topics-LocalDate-30_years_before_and_after.main" target="11" />
+      <module name="Contacts.Topics-LocalDate-Print_dates_of_a_year_with_an_offset.main" target="11" />
+      <module name="Contacts.Topics-LocalDate-Similar_date.main" target="11" />
+      <module name="Contacts.Topics-LocalDate-Theory.main" target="11" />
+      <module name="Contacts.Topics-LocalDateTime-Add_11_hours_and_print_the_date.main" target="11" />
+      <module name="Contacts.Topics-LocalDateTime-Add_days_and_subtract_hours.main" target="11" />
+      <module name="Contacts.Topics-LocalDateTime-Subtracting_hours_and_adding_minutes.main" target="11" />
+      <module name="Contacts.Topics-LocalDateTime-The_passed_hours_since_the_beginning_of_year.main" target="11" />
+      <module name="Contacts.Topics-LocalDateTime-Theory.main" target="11" />
+      <module name="Contacts.Topics-LocalTime-Millisecond_precision.main" target="11" />
+      <module name="Contacts.Topics-LocalTime-Same_time.main" target="11" />
+      <module name="Contacts.Topics-LocalTime-Seconds_between_two_time_points.main" target="11" />
+      <module name="Contacts.Topics-LocalTime-Theory.main" target="11" />
+      <module name="Contacts.Topics-Manipulating_fields_and_methods-Assign_a_new_value_to_a_field.main" target="11" />
+      <module name="Contacts.Topics-Manipulating_fields_and_methods-Field_value.main" target="11" />
+      <module name="Contacts.Topics-Manipulating_fields_and_methods-Invoking_a_method.main" target="11" />
+      <module name="Contacts.Topics-Manipulating_fields_and_methods-Reflection_invocation.main" target="11" />
+      <module name="Contacts.Topics-Manipulating_fields_and_methods-Theory.main" target="11" />
+      <module name="Contacts.Topics-Replacing_characters-Check_the_essay.main" target="11" />
+      <module name="Contacts.Topics-Replacing_characters-Methods_of_a_string.main" target="11" />
+      <module name="Contacts.Topics-Replacing_characters-Methods_of_Matcher.main" target="11" />
+      <module name="Contacts.Topics-Replacing_characters-Remove_comments.main" target="11" />
+      <module name="Contacts.Topics-Replacing_characters-Remove_extra_spaces.main" target="11" />
+      <module name="Contacts.Topics-Replacing_characters-Remove_HTML_tags.main" target="11" />
+      <module name="Contacts.Topics-Replacing_characters-Theory.main" target="11" />
+      <module name="Contacts.Topics-Replacing_characters-What_is_the_result.main" target="11" />
+      <module name="Contacts.Topics-Runtime_type_checking-Pattern_matching_in_practice.main" target="11" />
+      <module name="Contacts.Topics-Runtime_type_checking-Select_statements.main" target="11" />
+      <module name="Contacts.Topics-Runtime_type_checking-Theory.main" target="11" />
+      <module name="Contacts.Topics-Runtime_type_checking-Three_classes_and_two_objects.main" target="11" />
+      <module name="Contacts.Topics-Runtime_type_checking-Who_is_who.main" target="11" />
+      <module name="Contacts.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
